@@ -1,0 +1,43 @@
+{
+    "Tên công ty": "Công ty TNHH Đát Việt",
+    "Địa chỉ": "abc Giải Phóng - Hà Nội",
+    "Tổng số nhân viên": 12457,
+    "Thống kê nhân viên": [
+        {
+            "stt": 1,
+            "tên đơn vị": "Đơn vị 1",
+            "số nhân viên": 3450,
+            "tỷ lệ %": 27.7
+        },
+        {
+            "stt": 2,
+            "tên đơn vị": "Đơn vị 2",
+            "số nhân viên": 2780,
+            "tỷ lệ %": 22.32
+        },
+        {
+            "stt": 3,
+            "tên đơn vị": "Đơn vị 3",
+            "số nhân viên": 1560,
+            "tỷ lệ %": 12.52
+        },
+        {
+            "stt": 4,
+            "tên đơn vị": "Đơn vị 4",
+            "số nhân viên": 2300,
+            "tỷ lệ %": 18.47
+        },
+        {
+            "stt": 5,
+            "tên đơn vị": "Đơn vị 5",
+            "số nhân viên": 1267,
+            "tỷ lệ %": 10.17
+        },
+        {
+            "stt": 6,
+            "tên đơn vị": "Đơn vị 6",
+            "số nhân viên": 1100,
+            "tỷ lệ %": 8.83
+        }
+    ]
+}
