@@ -1,0 +1,1 @@
+sqliteConnection = sqlite3.connect('mydatabase.db')
